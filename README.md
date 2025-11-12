@@ -1,23 +1,26 @@
-# TÍTULO DO PROJETO
+# FindMySong
 
-`CURSO`
+`Sistemas da Informação `
 
-`DISCIPLINA`
+`Trabalho Interdisciplinar: Aplicações para Processos de Negócios`
 
-`SEMESTRE`
+`3º Semestre`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto consiste no desenvolvimento de um sistema inovador de busca de músicas que possibilita ao usuário encontrar canções a partir de pequenos trechos de suas letras. Diferente dos aplicativos convencionais, que exigem o nome da música ou do artista, a proposta é oferecer uma ferramenta prática e intuitiva, capaz de localizar a canção desejada mesmo quando a lembrança é limitada a uma única palavra ou frase da letra.
+
+Além de facilitar o acesso às músicas, o sistema busca atender diferentes perfis de usuários, desde ouvintes ocasionais até músicos e estudantes. O projeto prevê ainda recursos de feedback, relatórios de uso e integração com plataformas credenciadas de streaming, garantindo não apenas a usabilidade, mas também a relevância técnica e a contribuição para o mercado em constante crescimento da música digital.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Abraao Lucas Fialho de Paula Villela
+* Eduardo Porto Gonçalves
+* Gustavo Henrique Chagas Ramos
+* Heitor Carlos Rezende Junior
+* Samuel Ribeiro Faleiro
 
 ## Orientador
 
-* Nome completo do professor 1
+* Cleia Marcia Gomes Amaral
 
 ## Instruções de utilização
 
